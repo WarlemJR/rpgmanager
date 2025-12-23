@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1766489489583,
+      "tag": "0000_dazzling_ma_gnuci",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1766489623898,
+      "tag": "0001_foamy_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1766490045126,
+      "tag": "0002_curvy_makkari",
+      "breakpoints": true
+    }
+  ]
+}

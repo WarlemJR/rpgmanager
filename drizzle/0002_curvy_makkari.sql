@@ -1,0 +1,1 @@
+ALTER TABLE `attributes` MODIFY COLUMN `maxValue` int NOT NULL DEFAULT 15;
